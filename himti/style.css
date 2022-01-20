@@ -1,0 +1,83 @@
+body{
+font-family: 'Nunito Sans';
+background-color: #eee7ff;
+}
+
+.nav-item{
+    color: white !important;
+    text-decoration: none;
+    margin-left: 50%;
+    /* word-spacing: 50px; */
+    margin: 0px 20px 0px 0px;
+    font-size: 18px;
+}
+
+.btn-custom{
+    color: white;
+    border-radius: 30px;
+    background-color: #415aa7;
+    font-size: 15px;
+    width: 13%;
+    padding: 13px;
+    margin-top: 16px;
+}
+
+.navbar-nav{
+    color: white !important;
+    float: right !important;
+}
+
+.headline{
+    padding: 140px 0px 140px 110px;
+}
+
+.tagline{
+    font-size: 60px;
+    letter-spacing: 27px;
+    font-weight: bold;
+}
+
+.tagline1{
+color: #939393;
+}
+
+h3{
+    margin-top: 50px;
+}
+
+.gambar{
+    display: flex;
+    float: right;
+    height: 390px;
+    margin: 5px;
+    margin-top: -75px;
+}
+
+.register{
+    background-color: #415AA7 !important;
+    border-radius: 25px;
+    width: 60%;
+    height: 60% !important;
+}
+
+.card{
+    border-radius: 25px;
+    width: 100px;
+}
+
+.row {
+    text-align: center;
+}
+
+.header{
+    text-align: center; 
+    padding: 10px;
+    margin-bottom: 35px;
+    font-weight: 100%;
+}
+
+.teks{
+    display: flex;
+    text-align: justify;
+    display: flex;
+}
